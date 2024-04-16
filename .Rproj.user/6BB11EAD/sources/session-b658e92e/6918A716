@@ -3,7 +3,7 @@
     "path": "~/Dropbox/Mac/Documents/GitHub/mxelectionrdd/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "1212770222",
     "contents": "",
     "dirty": false,
     "created": 1713300383236.0,
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "149:0",
+        "rmdVisualModeLocation": "151:0",
         "cursorPosition": "8,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1713300824,
+    "lastKnownWriteTime": 1713301052,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1713300824908,
+    "last_content_update": 1713301052763,
     "read_only": false,
     "read_only_alternatives": []
 }
