@@ -4,7 +4,7 @@ project:
   
 
 website:
-  title: "mxelectionrdd"
+  title: "Makenzie Kerneckel"
   navbar:
     left:
       - href: index.qmd
